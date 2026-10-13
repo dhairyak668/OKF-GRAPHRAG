@@ -1,0 +1,8 @@
+{
+  "api-gateway": "https://github.com/sample/api-gateway/-/blob/main",
+  "auth-service": "https://github.com/sample/auth-service/-/blob/main",
+  "notification-engine": "https://github.com/sample/notification-engine/-/blob/main",
+  "event-bus": "https://github.com/sample/event-bus/-/blob/main",
+  "sdk-client": "https://github.com/sample/sdk-client/-/blob/main",
+  "deploy-tools": "https://github.com/sample/deploy-tools/-/blob/main"
+}
